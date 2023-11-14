@@ -74,52 +74,84 @@ Quantum metric-induced nonlinear transport in a topological antiferromagnet.<br 
 <a href="https://www.nature.com/articles/s41586-023-06363-3">Nature 621, 487–492 (2023).</a> <br />
 <br />
 
-Naizhou Wang, Jing-Yang You, Aifeng Wang, Xiaoyuan Zhou, Zhaowei Zhang, Shen Lai, Hung-Ju Tien, Tay-Rong Chang, Yuan-Ping Feng, Hsin Lin, Guoqing Chang, Wei-bo Gao, “Non-centrosymmetric topological phase probed by Nonlinear Hall effect”. National Science Review (2023): nwad103.<br />
+<em>Naizhou Wang, Jing-Yang You, Aifeng Wang, Xiaoyuan Zhou, Zhaowei Zhang, Shen Lai, Hung-Ju Tien, Tay-Rong Chang, Yuan-Ping Feng, Hsin Lin, Guoqing Chang, Wei-bo Gao. </em> <br />
+Non-centrosymmetric topological phase probed by Nonlinear Hall effect. <br />
+<a href="https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwad103/7140549">National Science Review (2023): nwad103.</a> <br />
 <br />
 
-Qinghai Tan, Abdullah Rasmita, Zhaowei Zhang, Hongbing Cai, Xiangbin Cai, Xuran Dai, Kenji Watanabe, Takashi Taniguchi, Allan H MacDonald, Weibo Gao, “Layer-dependent correlated phases in WSe2/MoS2 moiré superlattice”. Nature Materials (2023): 1-7. <br />
+<em>Qinghai Tan, Abdullah Rasmita, Zhaowei Zhang, Hongbing Cai, Xiangbin Cai, Xuran Dai, Kenji Watanabe, Takashi Taniguchi, Allan H MacDonald, Weibo Gao. </em> <br />
+Layer-dependent correlated phases in WSe2/MoS2 moiré superlattice. <br />
+<a href="https://www.nature.com/articles/s41563-023-01521-4">Nature Materials 22, 605–611 (2023).</a> <br />
 <br />
 
-Hongbing Cai, Abdullah Rasmita, Qinghai Tan, Jia-Min Lai, Ruihua He, Disheng Chen, Naizhou Wang, Zhao Mu, Zumeng Huang, Zhaowei Zhang, John JH Eng, Yuanda Liu, Yongzhi She, Nan Pan, Xiaoping Wang, Xiaogang Liu, Jun Zhang, Weibo Gao, “Interlayer donor-acceptor pair excitons in MoSe2/WSe2 moiré heterobilayer”. Nature Communications 14, 5766 (2023).<br />
+<em>Hongbing Cai, Abdullah Rasmita, Qinghai Tan, Jia-Min Lai, Ruihua He, Disheng Chen, Naizhou Wang, Zhao Mu, Zumeng Huang, Zhaowei Zhang, John JH Eng, Yuanda Liu, Yongzhi She, Nan Pan, Xiaoping Wang, Xiaogang Liu, Jun Zhang, Weibo Gao. </em> <br />
+Interlayer donor-acceptor pair excitons in MoSe2/WSe2 moiré heterobilayer. <br />
+<a href="https://www.nature.com/articles/s41467-023-41330-6">Nature Communications 14, 5766 (2023).</a> <br />
 <br />
 
-Shen Lai, Zhaowei Zhang, Naizhou Wang, Abdullah Rasmita, Ya Deng, Zheng Liu, Wei-bo Gao. “Dual-Gate All-Electrical Valleytronic Transistors”. Nano Letters 23.1(2023):192-197. <br />
+<em>Shen Lai, Zhaowei Zhang, Naizhou Wang, Abdullah Rasmita, Ya Deng, Zheng Liu, Wei-bo Gao. </em> <br />
+Dual-Gate All-Electrical Valleytronic Transistors.</em> <br />
+<a href="https://pubs.acs.org/doi/10.1021/acs.nanolett.2c03947">Nano Letters 23.1(2023):192-197.</a> <br />
 <br />
 
-Qinghai Tan, Abdullah Rasmita, Zhaowei Zhang, KS Novoselov, Wei-bo Gao.“ Signature of Cascade Transitions between Interlayer Excitons in a Moiré Superlattice”. Physical Review Letters 192.24(2022): 247401.<br />
+<em>Qinghai Tan, Abdullah Rasmita, Zhaowei Zhang, KS Novoselov, Wei-bo Gao.</em> <br />
+Signature of Cascade Transitions between Interlayer Excitons in a Moiré Superlattice. <br />
+<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.129.247401">Physical Review Letters 192.24(2022): 247401.</a> <br />
 <br />
 
-Xiaodan Lyu, Qinghai Tan, Lishu Wu, Chusheng Zhang, Zhaowei Zhang, Zhao Mu, Jesús Zúñiga-Pérez, Hongbing Cai, Weibo Gao. “Strain Quantum Sensing with Spin Defects in Hexagonal Boron Nitride”. Nano Letters 22.16(2022) 6553-6559.<br />
+<em>Xiaodan Lyu, Qinghai Tan, Lishu Wu, Chusheng Zhang, Zhaowei Zhang, Zhao Mu, Jesús Zúñiga-Pérez, Hongbing Cai, Weibo Gao. </em> <br />
+Strain Quantum Sensing with Spin Defects in Hexagonal Boron Nitride. <br />
+<a href="https://pubs.acs.org/doi/10.1021/acs.nanolett.2c01722">Nano Letters 22.16(2022) 6553-6559.</a> <br />
 <br />
 
-Jiadong Zhou, Chao Zhu, Yao Zhou, Jichen Dong, Peiling Li, Zhaowei Zhang, Zhen Wang, Yung-Chang Lin, Jia Shi, Runwu Zhang, Yanzhen Zheng, Huimei Yu, Bijun Tang, Fucai Liu, Lin Wang, Liwei Liu, Gui-Bin Liu, Weida Hu, Yanfeng Gao, Haitao Yang, Weibo Gao, Li Lu, Yeliang Wang, Kazu Suenaga, Guangtong Liu, Feng Ding, Yugui Yao and Zheng Liu "Composition and phase engineering of metal chalcogenides and phosphorous chalcogenides." Nature Materials (2022): 1-9. <br />
+<em>Jiadong Zhou, Chao Zhu, Yao Zhou, Jichen Dong, Peiling Li, Zhaowei Zhang, Zhen Wang, Yung-Chang Lin, Jia Shi, Runwu Zhang, Yanzhen Zheng, Huimei Yu, Bijun Tang, Fucai Liu, Lin Wang, Liwei Liu, Gui-Bin Liu, Weida Hu, Yanfeng Gao, Haitao Yang, Weibo Gao, Li Lu, Yeliang Wang, Kazu Suenaga, Guangtong Liu, Feng Ding, Yugui Yao and Zheng Liu. </em> <br />
+Composition and phase engineering of metal chalcogenides and phosphorous chalcogenides. <br />
+<a href="https://www.nature.com/articles/s41563-022-01291-5">Nature Materials 22, 450–458 (2023).</a> <br />
 <br />
 
-Bijun Tang, Xiaowei Wang, Mengjiao Han, Xiaodong Xu, Zhaowei Zhang, Chao Zhu, Xun Cao, Yumeng Yang, Qundong Fu, Jianqun Yang, Xingji Li, Weibo Gao, Jiadong Zhou, Junhao Lin, Zheng Liu. "Phase engineering of Cr5Te8 with colossal anomalous Hall effect." Nature Electronics 5.4 (2022): 224-232. <br />
+<em>Bijun Tang, Xiaowei Wang, Mengjiao Han, Xiaodong Xu, Zhaowei Zhang, Chao Zhu, Xun Cao, Yumeng Yang, Qundong Fu, Jianqun Yang, Xingji Li, Weibo Gao, Jiadong Zhou, Junhao Lin, Zheng Liu.</em> <br />
+Phase engineering of Cr5Te8 with colossal anomalous Hall effect. <br />
+<a href="https://www.nature.com/articles/s41928-022-00754-6">Nature Electronics 5.4 (2022): 224-232.</a> <br />
 <br />
 
-Cong Wang, Rui-Chun Xiao, Huiying Liu, Zhaowei Zhang, Shen Lai, Chao Zhu, Hongbing Cai, Naizhou Wang, Shengyao Chen, Ya Deng, Zheng Liu, Shengyuan A Yang, Wei-bo Gao. " Room temperature third-order nonlinear Hall effect in Weyl semimetal TaIrTe4". National Science Review, 2022. <br />
+<em>Cong Wang, Rui-Chun Xiao, Huiying Liu, Zhaowei Zhang, Shen Lai, Chao Zhu, Hongbing Cai, Naizhou Wang, Shengyao Chen, Ya Deng, Zheng Liu, Shengyuan A Yang, Wei-bo Gao. </em> <br />
+Room temperature third-order nonlinear Hall effect in Weyl semimetal TaIrTe4. <br />
+<a href="https://academic.oup.com/nsr/article/9/12/nwac020/6528385">National Science Review 9.12 (2022): nwac020.</a> <br />
 <br />
 
-Chongyun Jiang, Abdullah Rasmita, Hui Ma, Qinghai Tan, Zhaowei Zhang, Zumeng Huang, Shen Lai, Naizhou Wang, Sheng Liu, Xue Liu, Ting Yu, Qihua Xiong, Wei-bo Gao. "Room-temperature gate-tunable bipolar valley Hall effect in MoS2/WSe2 heterostructures". Nature Electronics, 5, 23–27 (2022). <br />
+<em>Chongyun Jiang, Abdullah Rasmita, Hui Ma, Qinghai Tan, Zhaowei Zhang, Zumeng Huang, Shen Lai, Naizhou Wang, Sheng Liu, Xue Liu, Ting Yu, Qihua Xiong, Wei-bo Gao. </em> <br />
+Room-temperature gate-tunable bipolar valley Hall effect in MoS2/WSe2 heterostructures. <br />
+<a href="https://www.nature.com/articles/s41928-021-00686-7">Nature Electronics, 5, 23–27 (2022). </a> <br />
 <br />
 
-Anyuan Gao, Yu-Fei Liu, Chaowei Hu, Jian-Xiang Qiu, Christian Tzschaschel, Barun Ghosh, Sheng-Chin Ho, Damien Bérubé, Rui Chen, Haipeng Sun, Zhaowei Zhang, Xin-Yue Zhang, Yu-Xuan Wang, Naizhou Wang, Zumeng Huang, Claudia Felser, Amit Agarwal, Thomas Ding, Hung-Ju Tien, Austin Akey, Jules Gardener, Bahadur Singh, Kenji Watanabe, Takashi Taniguchi, Kenneth S Burch, David C Bell, Brian B Zhou, Weibo Gao, Hai-Zhou Lu, Arun Bansil, Hsin Lin, Tay-Rong Chang, Liang Fu, Qiong Ma, Ni Ni, Su-Yang Xu. "Layer Hall effect in a 2D topological axion antiferromagnet." Nature 595.7868 (2021): 521-525. <br />
+<em>Anyuan Gao, Yu-Fei Liu, Chaowei Hu, Jian-Xiang Qiu, Christian Tzschaschel, Barun Ghosh, Sheng-Chin Ho, Damien Bérubé, Rui Chen, Haipeng Sun, Zhaowei Zhang, Xin-Yue Zhang, Yu-Xuan Wang, Naizhou Wang, Zumeng Huang, Claudia Felser, Amit Agarwal, Thomas Ding, Hung-Ju Tien, Austin Akey, Jules Gardener, Bahadur Singh, Kenji Watanabe, Takashi Taniguchi, Kenneth S Burch, David C Bell, Brian B Zhou, Weibo Gao, Hai-Zhou Lu, Arun Bansil, Hsin Lin, Tay-Rong Chang, Liang Fu, Qiong Ma, Ni Ni, Su-Yang Xu. </em> <br />
+Layer Hall effect in a 2D topological axion antiferromagnet. <br />
+<a href="https://www.nature.com/articles/s41586-021-03679-w">Nature 595.7868 (2021): 521-525. </a> <br />
 <br />
 
-Shen Lai, Huiying Liu, Zhaowei Zhang, Jianzhou Zhao, Xiaolong Feng, Naizhou Wang, Chaolong Tang, Yuanda Liu, KS Novoselov, Shengyuan A Yang, Wei-bo Gao. "Third-order nonlinear Hall effect induced by the Berry-connection polarizability tensor. " Nature Nanotechnology, 16(8), 869-873 (2021). <br />
+<em>Shen Lai, Huiying Liu, Zhaowei Zhang, Jianzhou Zhao, Xiaolong Feng, Naizhou Wang, Chaolong Tang, Yuanda Liu, KS Novoselov, Shengyuan A Yang, Wei-bo Gao. </em> <br />
+Third-order nonlinear Hall effect induced by the Berry-connection polarizability tensor. <br />
+<a href="https://www.nature.com/articles/s41565-021-00917-0">Nature Nanotechnology, 16(8), 869-873 (2021). </a> <br />
 <br />
 
-Jiadong Zhou, Junhao Lin, Hunter Sims, Chongyun Jiang, Chunxiao Cong, John A Brehm, Zhaowei Zhang, Lin Niu, Yu Chen, Yao Zhou, Yanlong Wang, Fucai Liu, Chao Zhu, Ting Yu, Kazu Suenaga, Rohan Mishra, Sokrates T Pantelides, Zhen‐Gang Zhu, Weibo Gao, Zheng Liu, Wu Zhou. "Synthesis of Co-Doped MoS2 Monolayers with Enhanced Valley Splitting." Advanced Materials 32 (11), 1906536. <br />
+<em>Jiadong Zhou, Junhao Lin, Hunter Sims, Chongyun Jiang, Chunxiao Cong, John A Brehm, Zhaowei Zhang, Lin Niu, Yu Chen, Yao Zhou, Yanlong Wang, Fucai Liu, Chao Zhu, Ting Yu, Kazu Suenaga, Rohan Mishra, Sokrates T Pantelides, Zhen‐Gang Zhu, Weibo Gao, Zheng Liu, Wu Zhou. </em> <br />
+Synthesis of Co-Doped MoS2 Monolayers with Enhanced Valley Splitting. <br />
+<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201906536">Advanced Materials 32 (11), 1906536. </a>  <br />
 <br />
 
-Chaolong Tang, Zhaowei Zhang, Shen Lai, Qinghai Tan, Weibo Gao. "Magnetic Proximity Effect in 2D Ferromagnetic CrBr3/Graphene van der Waals Heterostructures." Advanced Materials 32 (16), 1908498. <br />
+<em>Chaolong Tang, Zhaowei Zhang, Shen Lai, Qinghai Tan, Weibo Gao. </em> <br />
+Magnetic Proximity Effect in 2D Ferromagnetic CrBr3/Graphene van der Waals Heterostructures. <br />
+<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201908498">Advanced Materials 32 (16), 1908498. </a>  <br />
 <br />
 
-Tong Li, Yanhao Xu, Zhaowei Zhang, Zhuoxi Liang, Omololu Odunmbaku, Xiaoyan Huang, Filippo S Boi, Sijie Zhang, Yong Liu, Jiqiu Wen, Tian Yu. "Self-Assembly Prepared Millimeter Length Ferromagnetic Carbon Nanotubes with Spin Nontrivial Electronic Transport Properties. " ACS Applied Electronic Materials, 2(2), 491-498. <br />
+<em>Tong Li, Yanhao Xu, Zhaowei Zhang, Zhuoxi Liang, Omololu Odunmbaku, Xiaoyan Huang, Filippo S Boi, Sijie Zhang, Yong Liu, Jiqiu Wen, Tian Yu. </em> <br />
+Self-Assembly Prepared Millimeter Length Ferromagnetic Carbon Nanotubes with Spin Nontrivial Electronic Transport Properties. <br />
+<a href="https://pubs.acs.org/doi/10.1021/acsaelm.9b00723">ACS Applied Electronic Materials, 2(2), 491-498. </a>  <br />
 <br />
 
-Tian Yu, Zhaowei Zhang, Yanhao Xu, Y Liu, Wenjing Li, Ya Nie, Xi Zhang, Gang Xiang. "Exchange bias coupling in NiO/Ni bilayer tubular nanostructures synthetized by electrodeposition and thermal oxidation." Journal of Magnetism and Magnetic Materials 429 (2017): 74-78.  <br />
+<em>Tian Yu, Zhaowei Zhang, Yanhao Xu, Y Liu, Wenjing Li, Ya Nie, Xi Zhang, Gang Xiang. </em> <br />
+Exchange bias coupling in NiO/Ni bilayer tubular nanostructures synthetized by electrodeposition and thermal oxidation.  <br />
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0304885316325124?via%3Dihub">Journal of Magnetism and Magnetic Materials 429 (2017): 74-78. </a>  <br />
 <br />
 
 ## Patents
