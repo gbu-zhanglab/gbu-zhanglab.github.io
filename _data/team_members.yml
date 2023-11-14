@@ -1,18 +1,8 @@
 - name: Zhaowei Zhang
-  photo: Milan1.jpg
+  photo: Zhaowei.jpg
   info: Assistant professor, started Aug 2023
   email: zhangzhaowei@gbu.edu.cn
   number_educ: 3
   education1: Bachelor of Sicence, <a href="https://www.scu.edu.cn/">Sichuan University</a>
   education2: PhD, <a href="https://www.ntu.edu.sg/">Nanyang Technological University</a> with <a href="https://www1.spms.ntu.edu.sg/~weibogroup/">Prof. Weibo Gao</a>
   education3: Postdoc PhD, <a href="https://www.ntu.edu.sg/">Nanyang Technological University</a> with <a href="https://www1.spms.ntu.edu.sg/~weibogroup/">Prof. Weibo Gao</a>
-
-
-- name: "This could be you !"
-  photo: rock.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  email: milan.allan@gmail.com
-  number_educ: 0
-  education1:
-  education2:
-  education3:
