@@ -56,7 +56,7 @@ permalink: /publications/
 
 Zhaowei, Zhang*, Naizhou Wang*, Ning Cao, Aifeng Wang, Xiaoyuan Zhou, Kenji Watanabe, Takashi Taniguchi, Binghai Yan, and Wei-bo Gao. <br />
 Controlled large non-reciprocal charge transport in an intrinsic magnetic topological insulator MnBi2Te4.<br />
-Nature Communications, 13.1 (2022): 6191. <br />
+<a href="https://www.nature.com/articles/s41467-022-33705-y">Nature Communications, 13.1 (2022): 6191.</a> <br />
 
 Zhaowei Zhang*, Jingzhi Shang*, Chongyun Jiang*, Abdullah Rasmita, Weibo Gao, Ting Yu. "Direct photoluminescence probing of ferromagnetism in monolayer two-dimensional CrBr3." Nano Letters (2019) 5: 3138-3142. <br />
 
@@ -105,5 +105,3 @@ CN105449096B <br />
 磁性薄膜结构以及含有其的磁敏传感器器件、应用方法 <br />
 CN106597102B <br />
 <br />
-
-<em>Milan P Allan</em><br /> Methods of manufacturing superconductor and phononic elements <br /> <a href="https://patents.google.com/patent/US10439125B2/en?inventor=Milan+ALLAN&oq=inventor:(Milan+ALLAN)">US10439125B2 (2016)</a>
