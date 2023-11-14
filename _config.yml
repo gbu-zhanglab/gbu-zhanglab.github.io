@@ -8,10 +8,10 @@
 theme: minima
 
 # Site settings
-title: The Allan Lab
-email: your-email@domain.com
+title: The Zhang Lab
+email: zhangzhaowei@gbu.edu.cn
 description: > # this means to ignore newlines until "baseurl:"
-  Website of the AllanLab.
+  Website of the ZhangLab.
 url: https://gbu-zhanglab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "/zhanglab" # the subpath of your site, e.g. "/blog"
 repository: "gbu-zhanglab/zhanglab"
