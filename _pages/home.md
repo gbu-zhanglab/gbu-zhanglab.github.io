@@ -1,12 +1,12 @@
 ---
-title: "Allan Lab - Home"
+title: "Zhang Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "Zhang Lab at Great Bay University"
 sitemap: false
 permalink: /
 ---
 
-**News: Our group will move to LMU Munich!** During the next two years, we will build up a group at LMU and we will slowly move our instruments to Munich. We will be looking for PhD students, sub-group leaders, postdocs, engineering/technical stuff, and an administrative assistant. Please contact me if you are interested.
+**News: Our lab is ready!** New instruments is coming!.
 More details to follow.
 
 
