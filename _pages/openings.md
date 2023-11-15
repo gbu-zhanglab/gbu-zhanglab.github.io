@@ -17,5 +17,5 @@ We are hiring postdocs! Candidates with a PhD degree in 2D materials, nanofabric
 We offer one Master position every year. Candidates are expected to have a bachelor degree in physics or applied physics from Tier 1 university.
 
 ### Bsc students
-We especially welcome Bsc students to join us for reasearch training or final year projects. If you are insterested, please contact me by email (zhangzhaowei@gbu.edu.cn). 
+We especially welcome Bsc students to join us for reasearch training or final year projects. 
 
