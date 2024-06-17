@@ -1,9 +1,9 @@
 ---
-title: "News"
+title: "Zhang Lab - News"
 layout: textlay
-excerpt: "Zhang Lab at Great Bay University."
+excerpt: "allnews"
 sitemap: false
-permalink: /news.html
+permalink: /vacancies
 ---
 
 # News
