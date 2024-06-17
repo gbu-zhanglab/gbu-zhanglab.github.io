@@ -3,7 +3,7 @@ title: "News"
 layout: textlay
 excerpt: "Zhang Lab at Great Bay University."
 sitemap: false
-permalink: /allnews
+permalink: /news.html
 ---
 
 # News
