@@ -53,20 +53,14 @@ permalink: /publications/
 
 
 ## Full List of publications
-
-<em>Zhaowei Zhang, Naizhou Wang, Ning Cao, Aifeng Wang, Xiaoyuan Zhou, Kenji Watanabe, Takashi Taniguchi, Binghai Yan, and Wei-bo Gao.</em> <br />
-Controlled large non-reciprocal charge transport in an intrinsic magnetic topological insulator MnBi2Te4.<br />
-<a href="https://www.nature.com/articles/s41467-022-33705-y">Nature Communications, 13.1 (2022): 6191.</a> <br />
+<em>Hongbing Cai, Abdullah Rasmita, Ruihua He, Zhaowei Zhang, Qinghai Tan, Disheng Chen, Naizhou Wang, Zhao Mu, John JH Eng, Yongzhi She, Nan Pan, Qian Wang, Zhaogang Dong, Xiaoping Wang, Juan Wang, Yansong Miao, Ranjan Singh, Cheng-Wei Qiu, Xiaogang Liu, Weibo Gao. </em> <br />
+Charge-depletion-enhanced WSe2 quantum emitters on gold nanogap arrays with near-unity quantum efficiency. <br />
+<a href="https://www.nature.com/articles/s41566-024-01460-9">Nature Photonics (2024) </a> <br />
 <br />
 
-<em>Zhaowei Zhang, Jingzhi Shang, Chongyun Jiang, Abdullah Rasmita, Weibo Gao, Ting Yu. </em> <br />
-Direct photoluminescence probing of ferromagnetism in monolayer two-dimensional CrBr3. <br />
-<a href="https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.9b00553">Nano Letters (2019) 5: 3138-3142.</a> <br />
-<br />
-
-<em>Govindan Kutty Rajendran Nair, Zhaowei Zhang, Fuchen Hou, Ali Abdelaziem, Xiaodong Xu, Steve Wu Qing Yang, Nan Zhang, Weiqi Li, Chao Zhu, Yao Wu, Heng Weiling, Lixing Kang, Teddy Salim, Jiadong Zhou, Lin Ke, Junhao Lin, Xingji Li, Weibo Gao, Zheng Liu. </em> <br />
-Phase-pure two-dimensional FexGeTe2 magnets with near-room-temperature TC. <br />
-<a href="https://link.springer.com/article/10.1007/s12274-021-3502-0">Nano Research 15.1 (2022): 457-464.</a> <br />
+<em>Ziqi Li, Jiayun Liu, Abdullah Rasmita, Zhaowei Zhang, Weibo Gao, Elbert EM Chia. </em> <br />
+Room-Temperature Geometrical Circular Photocurrent in Few-Layer MoS2. <br />
+<a href="https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.4c00057">Nano Letters 24, 20, 5952–5957 (2024). </a> <br />
 <br />
 
 <em>Naizhou Wang, Daniel Kaplan, Zhaowei Zhang, Tobias Holder, Ning Cao, Aifeng Wang, Xiaoyuan Zhou, Feifei Zhou, Zhengzhi Jiang, Chusheng Zhang, Shihao Ru, Hongbing Cai, Kenji Watanabe, Takashi Taniguchi, Binghai Yan, Weibo Gao. </em> <br />
@@ -87,6 +81,11 @@ Layer-dependent correlated phases in WSe2/MoS2 moiré superlattice. <br />
 <em>Hongbing Cai, Abdullah Rasmita, Qinghai Tan, Jia-Min Lai, Ruihua He, Disheng Chen, Naizhou Wang, Zhao Mu, Zumeng Huang, Zhaowei Zhang, John JH Eng, Yuanda Liu, Yongzhi She, Nan Pan, Xiaoping Wang, Xiaogang Liu, Jun Zhang, Weibo Gao. </em> <br />
 Interlayer donor-acceptor pair excitons in MoSe2/WSe2 moiré heterobilayer. <br />
 <a href="https://www.nature.com/articles/s41467-023-41330-6">Nature Communications 14, 5766 (2023).</a> <br />
+<br />
+
+<em>Zhaowei Zhang, Naizhou Wang, Ning Cao, Aifeng Wang, Xiaoyuan Zhou, Kenji Watanabe, Takashi Taniguchi, Binghai Yan, and Wei-bo Gao.</em> <br />
+Controlled large non-reciprocal charge transport in an intrinsic magnetic topological insulator MnBi2Te4.<br />
+<a href="https://www.nature.com/articles/s41467-022-33705-y">Nature Communications, 13.1 (2022): 6191.</a> <br />
 <br />
 
 <em>Shen Lai, Zhaowei Zhang, Naizhou Wang, Abdullah Rasmita, Ya Deng, Zheng Liu, Wei-bo Gao. </em> <br />
@@ -119,6 +118,11 @@ Room temperature third-order nonlinear Hall effect in Weyl semimetal TaIrTe4. <b
 <a href="https://academic.oup.com/nsr/article/9/12/nwac020/6528385">National Science Review 9.12 (2022): nwac020.</a> <br />
 <br />
 
+<em>Govindan Kutty Rajendran Nair, Zhaowei Zhang, Fuchen Hou, Ali Abdelaziem, Xiaodong Xu, Steve Wu Qing Yang, Nan Zhang, Weiqi Li, Chao Zhu, Yao Wu, Heng Weiling, Lixing Kang, Teddy Salim, Jiadong Zhou, Lin Ke, Junhao Lin, Xingji Li, Weibo Gao, Zheng Liu. </em> <br />
+Phase-pure two-dimensional FexGeTe2 magnets with near-room-temperature TC. <br />
+<a href="https://link.springer.com/article/10.1007/s12274-021-3502-0">Nano Research 15.1 (2022): 457-464.</a> <br />
+<br />
+
 <em>Chongyun Jiang, Abdullah Rasmita, Hui Ma, Qinghai Tan, Zhaowei Zhang, Zumeng Huang, Shen Lai, Naizhou Wang, Sheng Liu, Xue Liu, Ting Yu, Qihua Xiong, Wei-bo Gao. </em> <br />
 Room-temperature gate-tunable bipolar valley Hall effect in MoS2/WSe2 heterostructures. <br />
 <a href="https://www.nature.com/articles/s41928-021-00686-7">Nature Electronics, 5, 23–27 (2022). </a> <br />
@@ -147,6 +151,11 @@ Magnetic Proximity Effect in 2D Ferromagnetic CrBr3/Graphene van der Waals Heter
 <em>Tong Li, Yanhao Xu, Zhaowei Zhang, Zhuoxi Liang, Omololu Odunmbaku, Xiaoyan Huang, Filippo S Boi, Sijie Zhang, Yong Liu, Jiqiu Wen, Tian Yu. </em> <br />
 Self-Assembly Prepared Millimeter Length Ferromagnetic Carbon Nanotubes with Spin Nontrivial Electronic Transport Properties. <br />
 <a href="https://pubs.acs.org/doi/10.1021/acsaelm.9b00723">ACS Applied Electronic Materials, 2(2), 491-498. </a>  <br />
+<br />
+
+<em>Zhaowei Zhang, Jingzhi Shang, Chongyun Jiang, Abdullah Rasmita, Weibo Gao, Ting Yu. </em> <br />
+Direct photoluminescence probing of ferromagnetism in monolayer two-dimensional CrBr3. <br />
+<a href="https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.9b00553">Nano Letters (2019) 5: 3138-3142.</a> <br />
 <br />
 
 <em>Tian Yu, Zhaowei Zhang, Yanhao Xu, Y Liu, Wenjing Li, Ya Nie, Xi Zhang, Gang Xiang. </em> <br />
