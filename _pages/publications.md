@@ -53,6 +53,11 @@ permalink: /publications/
 
 
 ## Full List of publications
+<em>Chuangwen Wu, Shuting Cui, Yaqin Guo, Zhaowei Zhang, Jing Zhang, Xiao Deng, Guang Zeng, Chuantong Ren, Peizhi Li, Xiangqing Zhou, Xu Zhang, Jingfeng Li, Tao Zhu, Xiufeng Han, Jinkui Zhao, Hao Wang, Yue Zhang, Shiheng Liang, Hao Wu </em> <br />
+Manipulation of Unconventional Spin Polarization in Non‐Collinear Exchange‐Spring Magnetic Structures. <br />
+<a href="https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adma.202414139">Advanced Materials (2025) </a> <br />
+<br />
+
 <em>Hongbing Cai, Abdullah Rasmita, Ruihua He, Zhaowei Zhang, Qinghai Tan, Disheng Chen, Naizhou Wang, Zhao Mu, John JH Eng, Yongzhi She, Nan Pan, Qian Wang, Zhaogang Dong, Xiaoping Wang, Juan Wang, Yansong Miao, Ranjan Singh, Cheng-Wei Qiu, Xiaogang Liu, Weibo Gao. </em> <br />
 Charge-depletion-enhanced WSe2 quantum emitters on gold nanogap arrays with near-unity quantum efficiency. <br />
 <a href="https://www.nature.com/articles/s41566-024-01460-9">Nature Photonics (2024) </a> <br />
