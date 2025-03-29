@@ -25,7 +25,7 @@ New instruments for quantum material study will be built!
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/strain_cell.jpg" alt="Slide 1" />
         </div>
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Cryostat.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cryostat.jpg" alt="Slide 2" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
